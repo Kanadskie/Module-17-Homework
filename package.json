@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "name": "Module-17-Homework",
+  "version": "1.0.0",
+  "description": "Testing code",
+  "main": "index.js",
+  "repository": "https://github.com/Kanadskie/Module-17-Homework.git",
+  "author": "Dmitriy Levykh <da-levikh@ya.ru>",
+  "license": "MIT"
+}
